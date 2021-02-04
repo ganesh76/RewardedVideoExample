@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Easy App</string>
+    <string name="impossible_game">Sample Ad App</string>
+    <string name="retry_button_text">Refresh Ad</string>
+    <string name="watch_video_button_text">Video Ad</string>
+    <string name="watch_adv_button_text">Advanced Ad</string>
+    <string name="watch_int_button_text">Intrestial Ad</string>
+    <string name="watch_banner_button_text">Ads in List</string>
+    <string name="default_coin_text">Coins Added: </string>
+    <string name="ad_attribution">ad</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1798935924860177/4629141425</string>
+    <string name="main_act_ad_unit_id">ca-app-pub-1798935924860177/2807442223</string>
+    <string name="int_act_ad_unit_id">ca-app-pub-1798935924860177/1494360553</string>
+    <string name="adv_act_ad_unit_id">ca-app-pub-1798935924860177/2427990661</string>
+</resources>
