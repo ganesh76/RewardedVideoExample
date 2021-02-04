@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "591569976140",
+    "firebase_url": "https://gold-verve-120614.firebaseio.com",
+    "project_id": "gold-verve-120614",
+    "storage_bucket": "gold-verve-120614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591569976140:android:9a90a4cd949ee4bbf9ede9",
+        "android_client_info": {
+          "package_name": "com.ganesh.enjoythecount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591569976140-r2utd8o1r7fi3dgda5b0blb9flrivdhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ganesh.enjoythecount",
+            "certificate_hash": "40f84c0f4bca6139c5b377d16a1971a5cbadb117"
+          }
+        },
+        {
+          "client_id": "591569976140-88qpnqesoqk2asle369pc23l7bm2dr8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw-LI18clLKM27hyJnV_iSROWRbPhYK1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591569976140-88qpnqesoqk2asle369pc23l7bm2dr8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1798935924860177~2732115139"
+    }
+  ],
+  "configuration_version": "1"
+}
