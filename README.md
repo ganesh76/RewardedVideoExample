@@ -4,7 +4,6 @@
 ## Project intended for demo and reference purpose
 ## https://play.google.com/store/apps/details?id=com.ganesh.enjoythecount 
 
-![Screenshot](device-rel-2.png)
-![Screenshot](device-release_tab.png)
-![Screenshot](device_release_1.png)
+![Screenshot](device_1.png)
+![Screenshot](device_2.png)
 
